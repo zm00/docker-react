@@ -8,3 +8,4 @@ before_install:
 
 scripts:
   - docker run -e CI=true jf00/docker-react npm run test
+  
